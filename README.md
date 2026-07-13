@@ -49,3 +49,9 @@ To run this pipeline locally or in Colab:
 1. Clone this repository:
    ```bash
    git clone [https://github.com/yourusername/LMC-Stellar-Clustering-GaiaDR3.git](https://github.com/yourusername/LMC-Stellar-Clustering-GaiaDR3.git)
+   
+pip install -r requirements.txt:
+
+   pip install -r requirements.txt
+
+Open the notebook inside /notebooks and run all cells.
