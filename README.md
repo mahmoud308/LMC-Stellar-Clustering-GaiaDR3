@@ -50,7 +50,7 @@ To run this pipeline locally or in Colab:
    ```bash
    git clone [https://github.com/yourusername/LMC-Stellar-Clustering-GaiaDR3.git](https://github.com/yourusername/LMC-Stellar-Clustering-GaiaDR3.git)
    
-pip install -r requirements.txt:
+Install the required dependencies:
 
    pip install -r requirements.txt
 
