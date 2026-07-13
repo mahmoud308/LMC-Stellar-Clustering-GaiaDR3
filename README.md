@@ -55,3 +55,20 @@ Install the required dependencies:
    pip install -r requirements.txt
 
 Open the notebook inside /notebooks and run all cells.
+
+🏛️ Acknowledgments
+This capstone project was completed as part of the BRICS Astronomy / Inter-university Institute for Data Intensive Astronomy (IDIA) Data Analytics Capstone Project.
+
+Data source: European Space Agency (ESA) mission Gaia, processed by the Gaia Data Processing and Analysis Consortium (DPAC).
+---
+
+### Step 5: Generate a `requirements.txt` File (Optional but highly recommended)
+This file tells users what packages need to be installed to run your code. Create a new file in your repository root named `requirements.txt` and paste the following standard libraries:
+
+```text
+numpy>=1.20.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+hdbscan>=0.8.27
